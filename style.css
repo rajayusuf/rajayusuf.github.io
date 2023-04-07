@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins';
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #3090c7;
+}
+
+#projects {
+	background-color: #3090c7;
+}
+
+section {
+	padding-top: 4rem;
+}
